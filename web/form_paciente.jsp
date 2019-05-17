@@ -26,6 +26,10 @@
                 <label name="apemar">Apellido Materno</label>
                 <input id="apemat" type="text" placeholder="Apellido Matermo" required>
                 <br>
+                <label name="sexo">Sexo</label>
+                <input id="sexo" type="radio"> Masculino
+                <input id="sexo" type="radio"> Feminino
+                <label>Otro:</label> <input id="sexo" type="text"> 
             </fieldset>>
         </form>
     </body>
